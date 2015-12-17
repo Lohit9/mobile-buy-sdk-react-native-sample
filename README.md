@@ -1,4 +1,4 @@
-# Mobile Buy SDK React Native Sample Apps
+# Mobile Buy SDK React Native Sample Apps for iOS and Android
 
 ##iOS Sample App Demo
 
