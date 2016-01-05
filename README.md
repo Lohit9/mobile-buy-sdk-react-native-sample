@@ -1,8 +1,5 @@
 # Mobile Buy SDK React Native Sample Apps for iOS and Android
 
-##iOS Sample App Demo
-
-![Demo](https://github.com/Shopify/mobile-buy-sdk-ReactNative-iOS/blob/master/RN_demo.gif)
 
 ##Getting Started
 
