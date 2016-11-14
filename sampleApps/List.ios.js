@@ -1,6 +1,6 @@
 'use strict';
 var React = require('react-native');
-var BuySdkManager = require('NativeModules').BuySDKManager;
+var BuySdkManager = require('NativeModules').BuySdkManager;
 
 /*Please enter your shop details here:----------------- */
 var SHOP_DOMAIN = "";
